@@ -19,3 +19,9 @@
 
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
+
+# Photon Unity Networking
+Assets/Photon Unity Networking.meta
+Assets/Photon Unity Networking/
+Assets/Plugins.meta
+Assets/Plugins/
